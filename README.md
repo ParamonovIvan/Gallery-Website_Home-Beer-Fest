@@ -9,3 +9,5 @@
 + https://paramonovivan.github.io/Gallery-Website_Home-Beer-Fest/
 
 #### Внешний вид страницы сайта:
+
+![s1](https://github.com/ParamonovIvan/Gallery-Website_Home-Beer-Fest/assets/131868856/31cc1bab-b5bb-4d4a-a128-c514d34940f9)
