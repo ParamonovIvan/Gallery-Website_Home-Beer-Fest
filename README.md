@@ -6,6 +6,6 @@
 
 #### Ссылка на страницу сайта:
 
-+ 
++ https://paramonovivan.github.io/Gallery-Website_Home-Beer-Fest/
 
 #### Внешний вид страницы сайта:
